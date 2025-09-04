@@ -152,3 +152,4 @@ GROUP BY Sub_Category
 ORDER BY Profit_Margin_Percent DESC;
 
 -- Export query results to CSV for Python/Power BI: Use SSMS 'Results to File' or Tasks > Export Data.
+
