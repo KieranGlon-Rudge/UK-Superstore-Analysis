@@ -71,6 +71,7 @@ Key insights include:
 - Add Jupyter notebook for Python-based EDA (e.g., correlation analysis, visualizations).
 - Predictive modeling (e.g., sales forecasting using R).
 - Create field parameters for the KPI Cards to affect the graphics and button field paramters for the drill downs
+- Make the dashboard more storage efficient by removing summarizations and creating mesaures with the aggregations where needed
 - Clean the dashboard for publishing looks e.g. remove tooltips however due to free Power BI am unable to Publish and can't see what things need to be cleaned up
 
 License: MIT
