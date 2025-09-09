@@ -65,13 +65,16 @@ Key insights include:
 1. Import `Superstore_UK.csv` into SSMS.
 2. Run `superstore_uk_analysis.sql` for cleaning and queries.
 3. Open Power BI dashboards (screenshots provided; contact for `.pbix`).
-4. Optional: Use Python (pandas/seaborn) or R in Jupyter for further analysis—notebook coming soon!
 
-## Future Improvements
-- Create field parameters for the KPI Cards to affect the graphics
-- Create drill down for the product category with sub category
-- Make the dashboard more storage efficient by removing summarizations and creating mesaures with the aggregations where needed
+## Future Improvements Completed
+- Create field parameters for the KPI Cards to affect the graphics.
+- Create drill down for the product category with sub category.
+- Make the dashboard more storage efficient by removing summarizations and creating mesaures with the aggregations where needed.
 - Replace the background shapes in power bi with a background created in power point to increase efficiency.
 - Clean the dashboard for publishing looks e.g. hiding pages, removing unnecessary header icons and filter pane. (However due to free Power BI am unable to Publish and can't see what things need to be cleaned up)
+
+## Potnetial Future Improvements 
+- Add Jupyter notebook for Python-based EDA (e.g., correlation analysis, visualizations).
+- Predictive modeling (e.g., sales forecasting using R).
 
 License: MIT
