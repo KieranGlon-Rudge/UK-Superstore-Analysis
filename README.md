@@ -72,6 +72,6 @@ Key insights include:
 - Create drill down for the product category with sub category
 - Make the dashboard more storage efficient by removing summarizations and creating mesaures with the aggregations where needed
 - Replace the background shapes in power bi with a background created in power point to increase efficiency.
-- Clean the dashboard for publishing looks e.g. hiding pages and removing unnecessary header icons. (However due to free Power BI am unable to Publish and can't see what things need to be cleaned up)
+- Clean the dashboard for publishing looks e.g. hiding pages, removing unnecessary header icons and filter pane. (However due to free Power BI am unable to Publish and can't see what things need to be cleaned up)
 
 License: MIT
