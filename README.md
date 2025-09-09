@@ -68,10 +68,10 @@ Key insights include:
 4. Optional: Use Python (pandas/seaborn) or R in Jupyter for further analysis—notebook coming soon!
 
 ## Future Improvements
-- Add Jupyter notebook for Python-based EDA (e.g., correlation analysis, visualizations).
-- Predictive modeling (e.g., sales forecasting using R).
-- Create field parameters for the KPI Cards to affect the graphics and button field paramters for the drill downs
-- Make the dashboard more storage efficient by removing summarizations and creating mesaures with the aggregations where needed and replacing the background shapes in power bi with a background created in power point.
-- Clean the dashboard for publishing looks e.g. hiding pages and removing most header icons however due to free Power BI am unable to Publish and can't see what things need to be cleaned up
+- Create field parameters for the KPI Cards to affect the graphics
+- Create drill down for the product category with sub category
+- Make the dashboard more storage efficient by removing summarizations and creating mesaures with the aggregations where needed
+- Replace the background shapes in power bi with a background created in power point to increase efficiency.
+- Clean the dashboard for publishing looks e.g. hiding pages and removing unnecessary header icons. (However due to free Power BI am unable to Publish and can't see what things need to be cleaned up)
 
 License: MIT
