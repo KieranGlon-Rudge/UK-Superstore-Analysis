@@ -67,13 +67,15 @@ Key insights include:
 3. Open Power BI dashboards (screenshots provided; contact for `.pbix`).
 
 ## Future Improvements Completed
-- Create field parameters for the KPI Cards to affect the graphics.
+- Create field parameters for the KPI Cards to affect the graphics
+- Combined cards into one card and added month over month variable for each with colour and arrows based on if value is < or > 0.
 - Create drill down for the product category with sub category.
+- Formating all the text to match across graphics.
 - Make the dashboard more storage efficient by removing summarizations and creating mesaures with the aggregations where needed.
 - Replace the background shapes in power bi with a background created in power point to increase efficiency.
-- Clean the dashboard for publishing looks e.g. hiding pages, removing unnecessary header icons and filter pane. (However due to free Power BI am unable to Publish and can't see what things need to be cleaned up)
+- Clean the dashboard for publishing looks e.g. hiding pages, removing unnecessary header icons and hiding the filter pane. (However due to free Power BI am unable to Publish and can't see what things need to be cleaned up)
 
-## Potnetial Future Improvements 
+## Potential Future Improvements 
 - Add Jupyter notebook for Python-based EDA (e.g., correlation analysis, visualizations).
 - Predictive modeling (e.g., sales forecasting using R).
 
