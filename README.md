@@ -4,6 +4,9 @@
 This project analyzes sales data from a UK superstore to uncover insights on sales trends, profitability, top-performing categories, customers, products, and shipping efficiency. The goal is to demonstrate some of my current data analysis skills, including data cleaning, querying, exploratory data analysis (EDA), and visualization.
 
 ![Dashboard Overview Page](Improved Dashboard/UK Superstore Performance Overview Improved.png)
+
+![Dashboard Overview](Imporved Dashboard/UK Superstore Performance Overview Improved.png)
+
 Key insights include:
 - Total sales: £528.6K
 - Total profit: £111.9K
