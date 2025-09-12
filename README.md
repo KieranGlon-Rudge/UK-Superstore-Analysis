@@ -5,7 +5,7 @@ This project analyzes sales data from a UK superstore to uncover insights on sal
 
 ![Dashboard Overview Page](Improved Dashboard/UK Superstore Performance Overview Improved.png)
 
-![Dashboard Overview](Imporved Dashboard/UK Superstore Performance Overview Improved.png)
+![Dashboard Overview](Dashboard/UK Superstore Performance Overview.png)
 
 Key insights include:
 - Total sales: £528.6K
