@@ -1,7 +1,7 @@
 # UK Superstore Sales Analysis
 
 ## Project Overview
-This project analyzes sales data from a UK superstore to uncover insights on sales trends, profitability, top-performing categories, customers, products, and shipping efficiency. The goal is to demonstrate some of my current data analysis skills, including data cleaning, querying, exploratory data analysis (EDA), and visualization.
+This project analyses sales data from a UK superstore to uncover insights on sales trends, profitability, top-performing categories, customers, products, and shipping efficiency. The goal is to demonstrate some of my current data analysis skills, including data cleaning, querying, exploratory data analysis (EDA), and visualization.
 
 Overview Dashboard Page (See imporved Dashboard for other pages):
 ![Dashboard Overview Page](https://github.com/KieranGlon-Rudge/UK-Superstore-Analysis/blob/d8f42a183cdc9ce93a124dcbc757f9e113dc7274/Improved%20Dashboard/UK%20Superstore%20Performance%20Overview%20Improved.png?raw=true)
